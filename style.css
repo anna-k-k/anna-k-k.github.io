@@ -1,0 +1,30 @@
+h1 {
+	color: #296A80;
+}
+
+h2 {
+	color: #6BA1B3;
+}
+.esimerkki {
+	color: #2D3FB3;
+	padding-left: 10px;
+}
+.ESIMERKKI {
+	color: #2D3FB3;
+	padding-left: 10px;
+} 
+.esimerkki-box {
+	background-color: #C6E0E4;
+}
+* {
+	font-family: "Arial";
+}
+table {
+	width: 70%;
+	border-collapse: collapse;
+} 
+tr, td {
+	text-align: center;
+	padding: 15px;
+	border: 1px solid black;
+} 
